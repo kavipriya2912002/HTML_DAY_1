@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(241, 199, 232);
+}
+div{
+    background-color: blueviolet;
+    color: white;
+}
+span{
+    background-color: brown;
+    color: white;
+}
